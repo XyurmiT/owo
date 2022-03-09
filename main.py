@@ -337,4 +337,4 @@ async def autoOwO(ctx):
 
 
 
-bot.run(os.getenv('token'), bot=False)
+bot.run(os.getenv('"OTA5ODA5ODg4ODQxMDcyNjYw.Yih3gQ.opRyTddTLN17k4-wRHplcKjoiFw"'), bot=False)
